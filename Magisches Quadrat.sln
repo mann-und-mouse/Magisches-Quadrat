@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Magisches Quadrat", "Magisches Quadrat\", "{999EBC55-931C-4AFE-B54F-F14871C26E48}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53544"
+		Debug.AspNetCompiler.PhysicalPath = "Magisches Quadrat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53544\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53544"
+		Release.AspNetCompiler.PhysicalPath = "Magisches Quadrat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53544\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53544"
+		SlnRelativePath = "Magisches Quadrat\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999EBC55-931C-4AFE-B54F-F14871C26E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999EBC55-931C-4AFE-B54F-F14871C26E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E2E3BF4-1C36-4027-A02F-88DF1543C44B}
+	EndGlobalSection
+EndGlobal
